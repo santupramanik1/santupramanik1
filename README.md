@@ -185,53 +185,19 @@ Interests   : Open source, system design, developer tooling, Backend Development
 
 ---
 
-
 <!-- ──────────────────────────────────────────────────────────────
   SECTION 9 ▸ SNAKE ANIMATION
-  One-time setup: go to your repo → Actions → enable the workflow
-  at: https://github.com/Platane/snk
-  Then this image auto-updates every 24h.
 ─────────────────────────────────────────────────────────────────── -->
 
 ## 🐍 My Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake.svg"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
-
-<!-- GitHub Actions workflow to generate the snake (save as .github/workflows/snake.yml):
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
----
-
 
 <!-- ──────────────────────────────────────────────────────────────
   SECTION 10 ▸ WAKATIME CODING STATS  (optional but impressive)
