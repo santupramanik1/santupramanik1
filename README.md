@@ -88,7 +88,7 @@ Interests   : Open source, system design, developer tooling, Backend Development
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
 
 
----
+
 
 
 <!-- Optional: Repo stat cards (replace YOUR_USERNAME/REPO_NAME) -->
@@ -115,7 +115,7 @@ Interests   : Open source, system design, developer tooling, Backend Development
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santupramanik1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
----
+
 
 
 <div align="center">
