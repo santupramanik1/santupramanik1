@@ -44,15 +44,12 @@
 ## 🚀 About Me
 
 ```yaml
-name        : YOUR_NAME
-location    : YOUR_CITY, YOUR_COUNTRY
-role        : Full Stack Developer / YOUR_ROLE
-experience  : X years of building production-grade software
-education   : B.Tech / B.E. in Computer Science (YOUR_COLLEGE)
-currently   : Working on YOUR_CURRENT_PROJECT
-learning    : YOUR_LEARNING_TOPIC (e.g. Rust, LLM fine-tuning, WebAssembly)
-interests   : Open source, system design, developer tooling
-fun_fact    : "YOUR_FUN_FACT_HERE"
+Name        : Santu Pramanik
+Location    : Bengaluru, Karnataka 560024
+Role        : Full Stack Developer 
+Education   : Pursuing Master in Computer Application in Presidency College (Autonomous),Bengaluru
+Currently   : Working on AI Powered Candidate Evaluation System
+Interests   : Open source, system design, developer tooling, Backend Development
 ```
 
 
