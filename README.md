@@ -31,14 +31,15 @@
 
 ## 🚀 About Me
 
-```yaml
+---
 Name        : Santu Pramanik
-Location    : Bengaluru, Karnataka 560024
-Role        : Full Stack Developer 
-Education   : Pursuing Master in Computer Application in Presidency College (Autonomous),Bengaluru
-Currently   : Working on AI Powered Candidate Evaluation System
-Interests   : Open source, system design, developer tooling, Backend Development
-```
+Role        : Full Stack Developer
+Location    : Bengaluru, Karnataka 560024 📍
+Education   : Pursuing MCA at Presidency College (Autonomous)
+Focus       : Backend Development, System Design, Developer Tooling
+Current_WIP : Engineering "HireIQ" - An AI-powered recruitment and candidate evaluation system
+Interests   : Contributing to Open Source & exploring modern architecture
+---
 
 
 <!-- ──────────────────────────────────────────────────────────────
