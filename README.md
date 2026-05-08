@@ -23,15 +23,7 @@
   YOUR_PORTFOLIO_URL with your real info.
 ─────────────────────────────────────────────────────────────────── -->
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
-</div>
 
 ---
 
@@ -103,61 +95,6 @@ Interests   : Open source, system design, developer tooling, Backend Development
 ---
 
 
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 5 ▸ GITHUB STATS (3 cards in a row)
-  Replace YOUR_USERNAME in ALL three URLs below.
-  Theme options: radical | dark | merko | gruvbox | tokyonight
-  | onedark | cobalt | synthwave | highcontrast | dracula
-─────────────────────────────────────────────────────────────────── -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
-
-
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 6 ▸ GITHUB TROPHIES
-  Replace YOUR_USERNAME. Theme: flat | onedark | gruvbox | dracula
-─────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 7 ▸ FEATURED PROJECTS
-  Showcase your 3 best projects. Add a GIF/screenshot for each.
-  Get a repo card URL from: https://github-readme-stats.vercel.app
-─────────────────────────────────────────────────────────────────── -->
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| 🚀 **[Project Alpha](https://github.com/YOUR_USERNAME/project-alpha)** | One-line description of what it does and why it matters | `React` `Node.js` `PostgreSQL` | [Live](https://your-demo.com) · [Repo](https://github.com/YOUR_USERNAME/project-alpha) |
-| 🤖 **[Project Beta](https://github.com/YOUR_USERNAME/project-beta)** | One-line description of what it does and why it matters | `Python` `FastAPI` `Redis` | [Live](https://your-demo.com) · [Repo](https://github.com/YOUR_USERNAME/project-beta) |
-| 🛠️ **[Project Gamma](https://github.com/YOUR_USERNAME/project-gamma)** | One-line description of what it does and why it matters | `Go` `Docker` `Kubernetes` | [Repo](https://github.com/YOUR_USERNAME/project-gamma) |
-
-</div>
-
 <!-- Optional: Repo stat cards (replace YOUR_USERNAME/REPO_NAME) -->
 <!--
 <div align="center">
@@ -184,25 +121,6 @@ Interests   : Open source, system design, developer tooling, Backend Development
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santupramanik1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 9 ▸ SNAKE ANIMATION
-─────────────────────────────────────────────────────────────────── -->
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/santupramanik1/santupramanik1/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-
-
-
-
 
 
 <div align="center">
