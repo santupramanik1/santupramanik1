@@ -199,85 +199,14 @@ Interests   : Open source, system design, developer tooling, Backend Development
   </picture>
 </div>
 
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 10 ▸ WAKATIME CODING STATS  (optional but impressive)
-  Requires: sign up at wakatime.com + install IDE plugin
-  Then add your WakaTime username below.
-─────────────────────────────────────────────────────────────────── -->
-
-## ⏱️ This Week I Coded In
-
-<!--START_SECTION:waka-->
-<!-- This section auto-updates via GitHub Actions + WakaTime.
-     Setup guide: https://github.com/anmol098/waka-readme-stats -->
-```text
-TypeScript   6 hrs 32 mins  ████████████░░░░░░░░  48.2%
-Python       3 hrs 10 mins  ██████░░░░░░░░░░░░░░  23.4%
-Go           2 hrs 04 mins  ████░░░░░░░░░░░░░░░░  15.3%
-Markdown     1 hr  12 mins  ██░░░░░░░░░░░░░░░░░░   8.9%
-Other        34 mins        █░░░░░░░░░░░░░░░░░░░   4.2%
-```
-<!--END_SECTION:waka-->
-
----
 
 
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 11 ▸ LATEST BLOG POSTS  (optional)
-  If you write a blog, this auto-populates via GitHub Actions.
-  Setup: https://github.com/gautamkrishnar/blog-post-workflow
-─────────────────────────────────────────────────────────────────── -->
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built YOUR_PROJECT in 30 Days](https://YOUR_BLOG_URL/post-1)
-- [Understanding System Design: YOUR_TOPIC](https://YOUR_BLOG_URL/post-2)
-- [Tips for YOUR_TOPIC That Recruiters Actually Notice](https://YOUR_BLOG_URL/post-3)
-<!-- BLOG-POST-LIST:END -->
-
-> 📖 [Read all posts →](https://YOUR_BLOG_URL)
-
----
 
 
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 12 ▸ OPEN SOURCE CONTRIBUTIONS  (optional)
-  List PRs / issues you're proud of. Very impressive to recruiters.
-─────────────────────────────────────────────────────────────────── -->
 
-## 🤝 Open Source Contributions
-
-| Repository | Contribution | Status |
-|-----------|-------------|--------|
-| [facebook/react](https://github.com/facebook/react) | Fixed docs typo in Hooks section | ✅ Merged |
-| [YOUR_ORG/REPO](https://github.com/YOUR_ORG/REPO) | Added feature X to improve Y | ✅ Merged |
-| [YOUR_ORG/REPO](https://github.com/YOUR_ORG/REPO) | Reported & fixed bug in Z | 🔄 Review |
-
----
-
-
-<!-- ──────────────────────────────────────────────────────────────
-  SECTION 13 ▸ CONNECT / FOOTER
-─────────────────────────────────────────────────────────────────── -->
-
-## 📫 Let's Connect
 
 <div align="center">
 
-**Open to full-time roles, freelance projects, and interesting collaborations.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
-[![Email](https://img.shields.io/badge/Email-Shoot_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-<div align="center">
-
-*"YOUR_FAVOURITE_QUOTE_HERE"*
 
 **⭐ If you find any of my repos useful, a star would mean the world!**
 
