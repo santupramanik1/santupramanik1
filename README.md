@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-
+```yaml
 ---
 Name        : Santu Pramanik
 Role        : Full Stack Developer
@@ -41,6 +41,7 @@ Focus       : Backend Development, System Design, Developer Tooling
 Current_WIP : Engineering "HireIQ" - An AI-powered recruitment and candidate evaluation system
 Interests   : Contributing to Open Source & exploring modern architecture
 ---
+```
 
 
 <!-- ──────────────────────────────────────────────────────────────
