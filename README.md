@@ -36,7 +36,7 @@
 Name        : Santu Pramanik
 Role        : Full Stack Developer
 Location    : Bengaluru, Karnataka 560024 📍
-Education   : Pursuing MCA at Presidency College (Autonomous)
+Education   : Master of Computer Applications (MCA), Presidency College (Autonomous), Bengaluru — Graduated 2026.
 Focus       : Backend Development, System Design, Developer Tooling
 Current_WIP : Engineering "HireIQ" - An AI-powered recruitment and candidate evaluation system
 Interests   : Contributing to Open Source & exploring modern architecture
